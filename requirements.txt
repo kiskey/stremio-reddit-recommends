@@ -1,0 +1,8 @@
+fastapi
+gunicorn
+uvicorn
+praw
+pandas
+sentence-transformers
+scikit-learn
+numpy
